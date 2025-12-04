@@ -1,0 +1,23 @@
+{
+  "name": "my-first-node-app",
+  "version": "1.0.0",
+  "description": "this is node app tracked with git.",
+  "homepage": "https://github.com/Adarsh7448/my-first-node-app#readme",
+  "bugs": {
+    "url": "https://github.com/Adarsh7448/my-first-node-app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adarsh7448/my-first-node-app.git"
+  },
+  "license": "ISC",
+  "author": "IIT Madras",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.11.0"
+  }
+}
